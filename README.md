@@ -15,7 +15,7 @@ Dynamic Art is a modern web application built with React and Vite. This project 
 To set up the project locally, follow these steps:
 
 ```sh
-# Clone the repository
+# Clone the repos
 git clone <your-repo-url>
 cd dynamicart
 
